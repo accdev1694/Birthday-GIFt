@@ -1,0 +1,17 @@
+div {
+  background-image: url(./assets/img/gift.jpg);
+  border: solid 1px blue;
+  width: 400px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div:hover {
+  background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl1aHRkN2k5YjcxMTVhMTZsMHUxYTFmb3BmaHJ4dXM0bW5uejgycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UOSftPfj5EbQdON1tS/giphy.webp);
+  border: solid 1px blue;
+  width: 400px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
