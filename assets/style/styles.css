@@ -135,6 +135,11 @@ h2 {
   background-image: url(https://media3.giphy.com/media/bjU3D9h1896WuJRTuj/200.webp?cid=ecf05e47r96r2y7t4gfgouj6rckgkj6550nlmw46gra5u7wh&ep=v1_gifs_search&rid=200.webp&ct=g);
 }
 
+audio {
+  position: fixed;
+  left: 40px;
+}
+
 /* media querries */
 
 /* Small mobile (up to 480px) */
